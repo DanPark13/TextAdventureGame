@@ -1,0 +1,35 @@
+﻿  Source.cpp
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(18): error C2059: syntax error: '}'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(18): error C2143: syntax error: missing ';' before '}'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(19): error C2143: syntax error: missing ';' before '}'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(19): error C2059: syntax error: '}'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(20): error C2143: syntax error: missing ';' before '}'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(20): error C2059: syntax error: '}'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(22): error C2143: syntax error: missing ';' before '{'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(22): error C2447: '{': missing function header (old-style formal list?)
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(27): error C2059: syntax error: 'if'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(28): error C2143: syntax error: missing ';' before '{'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(28): error C2447: '{': missing function header (old-style formal list?)
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(33): error C2059: syntax error: 'else'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(34): error C2143: syntax error: missing ';' before '{'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(34): error C2447: '{': missing function header (old-style formal list?)
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(175): error C2059: syntax error: 'else'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(176): error C2143: syntax error: missing ';' before '{'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(176): error C2447: '{': missing function header (old-style formal list?)
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(183): error C2059: syntax error: 'else'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(184): error C2143: syntax error: missing ';' before '{'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(184): error C2447: '{': missing function header (old-style formal list?)
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(189): error C2059: syntax error: 'if'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(190): error C2143: syntax error: missing ';' before '{'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(190): error C2447: '{': missing function header (old-style formal list?)
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(196): error C2059: syntax error: 'else'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(197): error C2143: syntax error: missing ';' before '{'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(197): error C2447: '{': missing function header (old-style formal list?)
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(202): error C2059: syntax error: 'else'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(203): error C2143: syntax error: missing ';' before '{'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(203): error C2447: '{': missing function header (old-style formal list?)
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(208): error C2059: syntax error: '}'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(208): error C2143: syntax error: missing ';' before '}'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(211): error C2143: syntax error: missing ';' before '{'
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(211): error C2447: '{': missing function header (old-style formal list?)
+c:\users\student\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(303): fatal error C1004: unexpected end-of-file found
